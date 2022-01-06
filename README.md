@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sevdebati
+- 👀 I’m interested in learning how to make better projects and more languages. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 📫 Instagram: @sevdebati
